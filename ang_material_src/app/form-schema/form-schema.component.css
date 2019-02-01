@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+.marg-around {
+  margin: 5px 5px 5px 5px;
+}
+.nested {
+  margin-top:8px;
+  margin-bottom:8px;
+}
+.uper {
+  text-transform: uppercase;
+}
+.disp-block {
+  display: block;
+}
+h4, h2 {
+  color:rgb(112, 111, 111);
+}
+h4 {
+  margin-left:25px;
+}
+.full-wdh {
+  width:100%;
+}
